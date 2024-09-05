@@ -18,3 +18,4 @@ We have curated frequently asked questions and common mistakes on Discourse, you
 
 
 [![Discord](https://img.shields.io/discord/565639094860775436.svg)](https://discord.gg/hAuevqx9Tj)
+
